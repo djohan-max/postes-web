@@ -1,7 +1,7 @@
 ---
-title: Example Page
-nav: Example
-nav_order: 1
+title: Contact
+nav: contact
+nav_order: 2
 ---
 
 Write pages in Markdown.
